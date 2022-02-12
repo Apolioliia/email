@@ -1,2 +1,2 @@
 # email
-This is my first commit.
+Utilizing php unit tests to test an email class
